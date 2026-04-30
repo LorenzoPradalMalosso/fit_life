@@ -368,7 +368,7 @@ O sistema deve:
 
 ```mermaid
 flowchart LR
-    Usuario["👤 Usuário"]
+    Usuario["Usuário"]
 
     Usuario --> UC1[Visualizar Tela Inicial]
     Usuario --> UC2[Gerenciar Atividades Pendentes]
